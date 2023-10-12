@@ -1,1 +1,24 @@
-css stuff
+p {
+    color:blue;
+}
+
+.section-heading {
+  text-align:center;
+  color:#102C4E;
+  margin-top: 150px;
+  margin-bottom:70px;
+  font-size: 35px;
+}
+
+.column-2 {
+  float: left;
+  width: 40%;
+  padding: 10px;
+  margin:20px;
+  height: 100%;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
